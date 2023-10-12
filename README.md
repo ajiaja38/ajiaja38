@@ -12,12 +12,15 @@
   <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="left" alt="PHP" title="Typescript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/96px-Typescript.svg.png" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCss" title="TailwindCss" width="35px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://vitejs.dev/"><img align="left" alt="vite" title="vite" width="24px" src="https://vitejs.dev/logo-with-shadow.png" /></a>
   <a href="https://nestjs.com/"><img align="left" alt="NestJs" title="NestJs" width="24px" src="https://docs.nestjs.com/assets/logo-small.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="24px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://www.mongodb.com/"><img align="left" alt="Mongodb" title="Mongodb" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
-  <a href="https://www.postgresql.org/"><img align="left" alt="Hapi" title="Mongodb" width="24px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /></a>
+  <a href="https://www.mongodb.com/"><img align="left" alt="RabbitMQ" title="RabbitMQ" width="105x" src="https://www.rabbitmq.com/img/rabbitmq_logo_strap.png" /></a>
+  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="24px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /></a>
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="24px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a>
  <br>
 
 ## Github Statistic
