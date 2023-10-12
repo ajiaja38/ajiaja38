@@ -23,7 +23,6 @@
   <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="24px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /></a>
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="24px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a><br>
 
-## Github Statistic
 <div align="center">
   <a href="https://github.com/ajiaja38">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajiaja38&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
