@@ -9,7 +9,7 @@
 - LinkedIn : [M Aji Perdana](https://www.linkedin.com/in/m-aji-perdana-3807071bb/)
 
 ## Tech Stack
-  <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="left" alt="PHP" title="Typescript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/96px-Typescript.svg.png" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCss" title="TailwindCss" width="35px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" /></a>
@@ -21,8 +21,7 @@
   <a href="https://www.mongodb.com/"><img align="left" alt="Mongodb" title="Mongodb" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
   <a href="https://www.mongodb.com/"><img align="left" alt="RabbitMQ" title="RabbitMQ" width="105x" src="https://www.rabbitmq.com/img/rabbitmq_logo_strap.png" /></a>
   <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="24px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /></a>
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="24px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a>
- <br>
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="24px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a><br>
 
 ## Github Statistic
 <div align="center">
