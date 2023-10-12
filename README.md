@@ -15,6 +15,7 @@
   <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCss" title="TailwindCss" width="35px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://vitejs.dev/"><img align="left" alt="vite" title="vite" width="24px" src="https://vitejs.dev/logo-with-shadow.png" /></a>
+  <a href="https://webpack.js.org/"><img align="left" alt="webpack" title="webpack" width="24px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" /></a>
   <a href="https://nestjs.com/"><img align="left" alt="NestJs" title="NestJs" width="24px" src="https://docs.nestjs.com/assets/logo-small.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="24px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://www.mongodb.com/"><img align="left" alt="Mongodb" title="Mongodb" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
