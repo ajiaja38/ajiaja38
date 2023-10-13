@@ -4,7 +4,12 @@ Fullstack Web Developer at PT.LSKK and PPTIK ITB
 
 ### About Me
 - 👀 I'm passionate about everything related to Javascript and Typescript.
-- 🌱 I’m continuously learning and expanding my knowledge in the world of programming, with a special focus on the JavaScript ecosystem.
+- 🌱 I’m continuously learning and expanding my knowledge in the world of programming.
+- 💻 I'm focused on Frontend Web Development using technologies like React, Next.js, etc.
+- 📱 I enjoy Mobile Development with Kotlin and Jetpack Compose.
+- ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Hapi.js, MongoDB, PostgreSQL, RabbitMQ, MQTT (for IoT connectivity).
+- ☁️ I'm also interested in Cloud technologies including AWS, IIS, and Railway.
+- 🧠 Exploring the exciting world of Machine Learning using TensorFlow and PyTorch.
 
 ## 📫 You can reach me on:
 [![Email Badge](https://img.shields.io/badge/-ajicooljazz38%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ajicooljazz38@gmail.com)
