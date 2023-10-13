@@ -77,7 +77,7 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Railway-FF3366?style=for-the-badge&labelColor=black&logo=railway&logoColor=FF3366" alt="Railway" />
   <img src="https://img.shields.io/badge/IIS-5D9CEC?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=5D9CEC" alt="IIS" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=fff" alt="AWS" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=0095D5" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84" alt="Android" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&labelColor=black&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
