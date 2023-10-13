@@ -12,8 +12,10 @@
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -27,6 +29,7 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)
 ![Hapi.js](https://img.shields.io/badge/Hapi.js-302C2D?style=for-the-badge&labelColor=302C2D&logo=hapi.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&labelColor=black&logo=quasar&logoColor=1976D2)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
@@ -49,13 +52,27 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EE4623)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 
 
 <br>
 <br>
 
 ## Github Statistic
-<div>
+<p align="center">
+  <a href="https://github.com/ajiaja38">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiaja38&theme=algolia" alt="Aji's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ajiaja38">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajiaja38&theme=algolia" alt="Aji Perdana's GitHub Contribution"/>
+  </a>
+</p>
+
+<div align="center">
   <a href="https://github.com/ajiaja38">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajiaja38&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajiaja38&layout=compact&langs_count=8&theme=algolia"/>
