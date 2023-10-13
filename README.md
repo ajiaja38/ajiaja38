@@ -7,7 +7,7 @@ Fullstack Web Developer at PT.LSKK and PPTIK ITB
 
 const myTechJourney = {
   name: "M. Aji Perdana",
-  location: "Bandung, Indonesia",
+  location: `${"Lampung" && "Bandung" ? "Indonesia" : "Earth"}`,
   currentRole: "Full-Stack Web Developer",
   passions: ["Frontend Web", "Backend", "Mobile Dev", "Machine Learning", "Cloud Computing"],
 };
