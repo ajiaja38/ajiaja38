@@ -19,6 +19,7 @@ Fullstack Web Developer at PT.LSKK and PPTIK ITB
 
 Let's connect and create something amazing together! 🚀
 
+
 <div align="center">
   <h2>Tech Stack</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -67,9 +68,8 @@ Let's connect and create something amazing together! 🚀
 </div>
 
 <br>
-<br>
 
-## Github Statistic
+<h2 align="center">Github Statistic</h2>
 <p align="center">
   <a href="https://github.com/ajiaja38">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiaja38&theme=algolia" alt="Aji's GitHub streak"/>
