@@ -2,6 +2,36 @@
 ## Hi, I'm Aji Perdana 👋
 Fullstack Web Developer at PT.LSKK and PPTIK ITB
 
+```javascript
+// Welcome to My Tech Space!
+
+const myTechJourney = {
+  name: "M. Aji Perdana",
+  location: "Bandung, Indonesia",
+  currentRole: "Full-Stack Web Developer",
+  passions: ["Frontend Web", "Backend", "Mobile Dev", "Machine Learning", "Cloud Computing"],
+};
+
+const techQuotes = [
+  "constantly_learning ? Developer : Expanding_horizons;",
+  "while (true) { keep_coding(); }",
+  "if (debugging_is_hard) { ask_stackoverflow(); }",
+  "Life begins at 'git init'.",
+  "The best error message is the one that never shows up.",
+  "Work hard and stay curious.",
+  "Here, we're not just coding; we're creating possibilities and shaping tomorrow.",
+  "Every line of code is a step towards a better, smarter, and more connected world.",
+  "Remember, you're not just a developer; you're a visionary, a creator, a changemaker.",
+];
+
+const sayHello = () => {
+  console.log(`Hello World! I'm ${myTechJourney.name} from ${myTechJourney.location}.`);
+  console.log(`I'm a ${myTechJourney.currentRole} with a passion for ${myTechJourney.passions.join(", ")}.`);
+};
+
+sayHello();
+```
+
 ### About Me
 - 👀 I'm passionate about everything related to Javascript and Typescript.
 - 🌱 I’m continuously learning and expanding my knowledge in the world of programming.
@@ -15,7 +45,6 @@ Fullstack Web Developer at PT.LSKK and PPTIK ITB
 [![Email Badge](https://img.shields.io/badge/-ajicooljazz38%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ajicooljazz38@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@tromolsupraa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tromolsupraa/)
 [![LinkedIn Badge](https://img.shields.io/badge/-M%20Aji%20Perdana-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/m-aji-perdana-3807071bb/)
-
 
 Let's connect and create something amazing together! 🚀
 
