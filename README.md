@@ -8,22 +8,54 @@
 - Phone : +62 856-9595-1121
 - LinkedIn : [M Aji Perdana](https://www.linkedin.com/in/m-aji-perdana-3807071bb/)
 
-## Tech Stack
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://www.typescriptlang.org/"><img align="left" alt="PHP" title="Typescript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/96px-Typescript.svg.png" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCss" title="TailwindCss" width="35px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://vitejs.dev/"><img align="left" alt="vite" title="vite" width="24px" src="https://vitejs.dev/logo-with-shadow.png" /></a>
-  <a href="https://webpack.js.org/"><img align="left" alt="webpack" title="webpack" width="24px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" /></a>
-  <a href="https://nestjs.com/"><img align="left" alt="NestJs" title="NestJs" width="24px" src="https://docs.nestjs.com/assets/logo-small.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="24px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://www.mongodb.com/"><img align="left" alt="Mongodb" title="Mongodb" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
-  <a href="https://www.mongodb.com/"><img align="left" alt="RabbitMQ" title="RabbitMQ" width="105x" src="https://www.rabbitmq.com/img/rabbitmq_logo_strap.png" /></a>
-  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="24px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /></a>
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="24px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a><br>
+<br>
 
-<div align="center">
+## Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8DD6F9)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=000000&logo=next.js&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&labelColor=black&logo=leaflet&logoColor=199900)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&labelColor=black&logo=chart.js&logoColor=FF6384)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)
+![Hapi.js](https://img.shields.io/badge/Hapi.js-302C2D?style=for-the-badge&labelColor=302C2D&logo=hapi.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&labelColor=black&logo=quasar&logoColor=1976D2)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+![Railway](https://img.shields.io/badge/Railway-FF3366?style=for-the-badge&labelColor=black&logo=railway&logoColor=FF3366)
+![IIS](https://img.shields.io/badge/IIS-5D9CEC?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=5D9CEC)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=0095D5)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&labelColor=black&logo=rabbitmq&logoColor=FF6600)
+![MQTT](https://img.shields.io/badge/MQTT-ED7D2B?style=for-the-badge&labelColor=black&logo=mqtt&logoColor=ED7D2B)
+![FTP](https://img.shields.io/badge/FTP-007ACC?style=for-the-badge&labelColor=black&logo=FileZilla&logoColor=007ACC)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=5C3EE8)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EE4623)
+
+
+<br>
+<br>
+
+## Github Statistic
+<div>
   <a href="https://github.com/ajiaja38">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajiaja38&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajiaja38&layout=compact&langs_count=8&theme=algolia"/>
