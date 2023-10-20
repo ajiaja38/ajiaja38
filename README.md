@@ -89,9 +89,6 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EE4623" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" alt="Git" />
 </div>
