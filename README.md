@@ -60,6 +60,7 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC" alt="Redux" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8DD6F9" alt="Webpack" />
@@ -78,8 +79,6 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/Railway-FF3366?style=for-the-badge&labelColor=black&logo=railway&logoColor=FF3366" alt="Railway" />
   <img src="https://img.shields.io/badge/IIS-5D9CEC?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=5D9CEC" alt="IIS" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=fff" alt="AWS" />
-  <img src="https://img.shields.io/badge/Kotlin-646CFF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=646CFF" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84" alt="Android" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&labelColor=black&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/MQTT-ED7D2B?style=for-the-badge&labelColor=black&logo=mqtt&logoColor=ED7D2B" alt="MQTT" />
   <img src="https://img.shields.io/badge/FTP-007ACC?style=for-the-badge&labelColor=black&logo=FileZilla&logoColor=007ACC" alt="FTP" />
