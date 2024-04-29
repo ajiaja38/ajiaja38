@@ -35,9 +35,9 @@ sayHello();
 ### About Me
 - 👀 I'm passionate about everything related to Javascript and Typescript.
 - 🌱 I’m continuously learning and expanding my knowledge in the world of programming.
-- 💻 I'm focused on Frontend Web Development using technologies like React, Next.js, etc.
+- 💻 I'm focused on Frontend Web Development using technologies like React, Angular, Next.js, etc.
 - 📱 I enjoy Mobile Development with React Native and Flutter.
-- ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Hapi.js, MongoDB, PostgreSQL, RabbitMQ, MQTT (for IoT connectivity).
+- ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Hapi.js, Express Js, Java Spring Boot, MongoDB, PostgreSQL, RabbitMQ, MQTT (for IoT connectivity).
 - ☁️ I'm also interested in Cloud technologies including AWS, IIS, and Railway.
 - 🧠 Exploring the exciting world of Machine Learning using TensorFlow and PyTorch.
 
