@@ -32,7 +32,7 @@ const sayHello = () => {
 sayHello();
 ```
 
-### About Me
+### About Me ![Visitors](https://komarev.com/ghpvc/?username=iqbalrivaldi28&style=flat&label=visitors)&nbsp;
 - 👀 I'm passionate about everything related to Javascript and Typescript.
 - 🌱 I’m continuously learning and expanding my knowledge in the world of programming.
 - 💻 I'm focused on Frontend Web Development using technologies like React, Angular, Next.js, etc.
