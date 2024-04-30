@@ -49,7 +49,7 @@ sayHello();
 Let's connect and create something amazing together! 🚀
 
 ## My Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajiaja38&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=ajiaja38&theme=onedark)
 
 <div align="center">
   <h2>Tech Stack</h2>
