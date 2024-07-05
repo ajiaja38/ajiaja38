@@ -5,14 +5,21 @@ Fullstack Web Developer at PT.LSKK and PPTIK ITB
 ```javascript
 // Welcome to My Tech Space!
 
-const myTechJourney = {
+interface IProfile {
+  name: string;
+  location: string;
+  currentRole: string;
+  passions: string[];
+}
+
+const myTechJourney: IProfile = {
   name: "M. Aji Perdana",
   location: `${"Lampung" && "Bandung" ? "Indonesia" : "Earth"}`,
   currentRole: "Full-Stack Web Developer",
   passions: ["Frontend Web", "Backend", "Mobile Dev", "Machine Learning", "Cloud Computing"],
-};
+}
 
-const techQuotes = [
+const techQuotes: string[] = [
   "constantly_learning ? Developer : Expanding_horizons;",
   "while (true) { keep_coding(); }",
   "if (debugging_is_hard) { ask_stackoverflow(); }",
@@ -22,14 +29,14 @@ const techQuotes = [
   "Here, we're not just coding; we're creating possibilities and shaping tomorrow.",
   "Every line of code is a step towards a better, smarter, and more connected world.",
   "Remember, you're not just a developer; you're a visionary, a creator, a changemaker.",
-];
+]
 
-const sayHello = () => {
-  console.log(`Hello World! I'm ${myTechJourney.name} from ${myTechJourney.location}.`);
-  console.log(`I'm a ${myTechJourney.currentRole} with a passion for ${myTechJourney.passions.join(", ")}.`);
-};
+const sayHello = async (): Promise<void> => {
+  Logger.log(`🚀 Hello World! I'm ${myTechJourney.name} from ${myTechJourney.location}.`)
+  Logger.log(`I'm a ${myTechJourney.currentRole} with a passion for ${myTechJourney.passions.join(", ")}.`)
+}
 
-sayHello();
+await sayHello()
 ```
 
 ### About Me ![Visitors](https://komarev.com/ghpvc/?username=ajiaja38&style=flat&label=visitors)&nbsp;
