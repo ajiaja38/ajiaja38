@@ -75,7 +75,6 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC" alt="Redux" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/NGRX-333333?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC" alt="NGRX">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8DD6F9" alt="Webpack" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=000000&logo=next.js&logoColor=white" alt="Next.js" />
@@ -91,7 +90,6 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" alt="Git" />
 </div>
 
