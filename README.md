@@ -40,11 +40,11 @@ await sayHello()
 ```
 
 ### About Me ![Visitors](https://komarev.com/ghpvc/?username=ajiaja38&style=flat&label=visitors)&nbsp;
-- 👀 I'm passionate about everything related to Javascript and Typescript.
+- 👀 I'm passionate about everything related to Typescript and Golang.
 - 🌱 I’m continuously learning and expanding my knowledge in the world of programming.
 - 💻 I'm focused on Frontend Web Development using technologies like React, Angular, Next.js, etc.
 - 📱 I enjoy Mobile Development with React Native and Flutter.
-- ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Hapi.js, Express Js, Java Spring Boot, MongoDB, PostgreSQL, RabbitMQ, MQTT (for IoT connectivity).
+- ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Golang, Java Spring Boot, MongoDB, PostgreSQL, RabbitMQ, MQTT (for IoT connectivity).
 - ☁️ I'm also interested in Cloud technologies including AWS, IIS, and Railway.
 - 🧠 Exploring the exciting world of Machine Learning using TensorFlow and PyTorch.
 
@@ -80,7 +80,7 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=000000&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E" alt="Nest.js" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Hapi.js-302C2D?style=for-the-badge&labelColor=302C2D&logo=hapi.js&logoColor=white" alt="Hapi.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37" alt="Postman" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248" alt="MongoDB" />
