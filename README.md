@@ -31,7 +31,7 @@ const techQuotes: string[] = [
   "Remember, you're not just a developer; you're a visionary, a creator, a changemaker.",
 ]
 
-const sayHello = async (): Promise<void> => {
+const sayHello: () => void = (): void => {
   Logger.log(`🚀 Hello World! I'm ${myTechJourney.name} from ${myTechJourney.location}.`)
   Logger.log(`I'm a ${myTechJourney.currentRole} with a passion for ${myTechJourney.passions.join(", ")}.`)
 }
