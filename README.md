@@ -1,6 +1,6 @@
 # Halo Everyone!
 ## Hi, I'm Aji Perdana 👋
-Fullstack Web Developer at PT.LSKK and PPTIK ITB
+Fullstack Web Developer at PT.LSKK
 
 ```javascript
 // Welcome to My Tech Space!
