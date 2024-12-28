@@ -1,5 +1,5 @@
 # Halo Everyone!
-## Hi, M. I'm Aji Perdana 👋
+## Hi, I'm M.Aji Perdana 👋
 Fullstack Web Developer at PT.LSKK
 
 ```javascript
