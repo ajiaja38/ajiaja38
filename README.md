@@ -1,6 +1,6 @@
 # Halo Everyone!
 ## Hi, I'm M. Aji Perdana 👋
-Fullstack Web Developer at PT.LSKK & PUSTEKHAN Institut Teknologi Bandung
+Fullstack Web Developer at PT.LSKK & PUSTEKHAN ITB
 
 ```javascript
 // Welcome to My Tech Space!
