@@ -16,7 +16,7 @@ const myTechJourney: IProfile = {
   name: "M. Aji Perdana",
   location: `${"Lampung" && "Bandung" ? "Indonesia" : "Earth"}`,
   currentRole: "Full-Stack Web Developer",
-  passions: ["Frontend Web", "Backend", "Mobile Dev", "Machine Learning", "Cloud Computing"],
+  passions: ["Frontend Web", "Backend", "Machine Learning", "Cloud Computing"],
 }
 
 const techQuotes: string[] = [
@@ -43,7 +43,7 @@ await sayHello()
 - 👀 I'm passionate about everything related to Typescript and Golang.
 - 🌱 I’m continuously learning and expanding my knowledge in the world of programming.
 - 💻 I'm focused on Frontend Web Development using technologies like React, Angular, Next.js, etc.
-- 📱 I enjoy Mobile Development with React Native and Flutter.
+- 📱 I enjoy Mobile Development with React Native.
 - ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Golang, Java Spring Boot, MongoDB, PostgreSQL, RabbitMQ, MQTT (for IoT connectivity).
 - 🧠 Exploring the exciting world of Machine Learning using TensorFlow and PyTorch.
 
