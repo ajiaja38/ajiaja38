@@ -1,6 +1,6 @@
 # Halo Everyone!
 ## Hi, I'm M. Aji Perdana 👋
-Software Developer at PT.LSKK & PUSTEKHAN ITB
+Software Developer at PT.LSKK
 
 ```javascript
 // Welcome to My Tech Space!
