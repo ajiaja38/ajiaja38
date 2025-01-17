@@ -1,4 +1,4 @@
-# Halo Everyone!
+# Hi Everyone!
 ## Hello, I'm M. Aji Perdana 👋
 Software Developer at PT.LSKK
 
