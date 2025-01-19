@@ -1,5 +1,5 @@
-# Hi Everyone!
-## Hello, I'm M. Aji Perdana 👋
+# Hello Everyone!
+## Hi, I'm M. Aji Perdana 👋
 Software Developer at PT.LSKK
 
 ```javascript
