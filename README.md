@@ -44,7 +44,7 @@ await sayHello()
 - 🌱 I’m continuously learning and expanding my knowledge in the world of programming.
 - 💻 I'm focused on Frontend Web Development using technologies like React, Angular, Next.js, etc.
 - 📱 I enjoy Mobile Development with React Native.
-- ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Golang, Java Spring Boot, MongoDB, PostgreSQL, RabbitMQ, MQTT (for IoT connectivity).
+- ⚙️ In the backend, I'm into building REST APIs and Microservices using Nest.js, Golang, Java Spring Boot, MongoDB, SQL, RabbitMQ, MQTT (for IoT connectivity).
 - 🧠 Exploring the exciting world of Machine Learning using TensorFlow and PyTorch.
 
 ## 📫 You can reach me on:
