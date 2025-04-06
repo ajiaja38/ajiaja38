@@ -1,4 +1,4 @@
-# Hello Everyone!
+# Hello guys!
 ## Hi, I'm M. Aji Perdana 👋
 Software Developer at PT.LSKK, Bandung, West Java
 
