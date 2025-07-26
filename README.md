@@ -2,7 +2,7 @@
 ## Hi, I'm M. Aji Perdana 👋
 Software Developer at PT.LSKK, Bandung City, West Java
 
-```javascript
+```typescript
 // Welcome to My Tech Space!
 
 interface IProfile {
