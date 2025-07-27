@@ -1,6 +1,6 @@
 # Hello guys!
 ## Hi, I'm M. Aji Perdana 👋
-Software Developer at PT.LSKK, Bandung City, West Java
+Fullstack Web Developer at PT.LSKK, Bandung City, West Java
 
 ```typescript
 // Welcome to My Tech Space!
