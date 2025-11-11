@@ -107,7 +107,7 @@ Let's connect and create something amazing together! 🚀
 
 <div align="center">
   <a href="https://github.com/ajiaja38">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajiaja38&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajiaja38&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiaja38&layout=compact&langs_count=10&theme=algolia&hide=javascript,html,cmake,css,scss,blade"/>
   </a>
 </div>
