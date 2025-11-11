@@ -2,41 +2,51 @@
 ## Hi, I'm M. Aji Perdana 👋
 Fullstack Developer at PT.LSKK and PUSTEKHAN ITB, Bandung City, West Java, Indonesia
 
-```typescript
+```go
 // Welcome to My Tech Space!
+package main
 
-interface IProfile {
-  name: string;
-  location: string;
-  currentRole: string;
-  passions: string[];
+import (
+	"fmt"
+	"strings"
+)
+
+type Profile struct {
+	Name        string
+	Location    string
+	CurrentRole string
+	Passion     []string
+	TechQuotes  []string
 }
 
-const myTechJourney: IProfile = {
-  name: "M. Aji Perdana",
-  location: `${"Lampung" && "Bandung" ? "Indonesia" : "Earth"}`,
-  currentRole: "Full-Stack Web Developer",
-  passions: ["Frontend Web", "Backend", "Machine Learning", "Cloud Computing"],
+func main() {
+	myTechJourney := &Profile{
+		Name:        "M. Aji Perdana",
+		Location:    "Indonesia",
+		CurrentRole: "Software Engineer",
+		Passion:     []string{"Frontend Web", "Backend", "Machine Learning", "Cloud Computing", "IOT"},
+	}
+
+	techQuotes := []string{
+		"constantly_learning ? Developer : Expanding_horizons;",
+		"while (true) { keep_coding(); }",
+		"if (debugging_is_hard) { ask_stackoverflow(); }",
+		"Life begins at 'git init'.",
+		"The best error message is the one that never shows up.",
+		"Work hard and stay curious.",
+		"Here, we're not just coding; we're creating possibilities and shaping tomorrow.",
+		"Every line of code is a step towards a better, smarter, and more connected world.",
+		"Remember, you're not just a developer; you're a visionary, a creator, a changemaker.",
+	}
+
+	myTechJourney.TechQuotes = techQuotes
+	SayHello(myTechJourney)
 }
 
-const techQuotes: string[] = [
-  "constantly_learning ? Developer : Expanding_horizons;",
-  "while (true) { keep_coding(); }",
-  "if (debugging_is_hard) { ask_stackoverflow(); }",
-  "Life begins at 'git init'.",
-  "The best error message is the one that never shows up.",
-  "Work hard and stay curious.",
-  "Here, we're not just coding; we're creating possibilities and shaping tomorrow.",
-  "Every line of code is a step towards a better, smarter, and more connected world.",
-  "Remember, you're not just a developer; you're a visionary, a creator, a changemaker.",
-]
-
-const sayHello: () => void = (): void => {
-  Logger.log(`🚀 Hello World! I'm ${myTechJourney.name} from ${myTechJourney.location}.`)
-  Logger.log(`I'm a ${myTechJourney.currentRole} with a passion for ${myTechJourney.passions.join(", ")}.`)
+func SayHello(journey *Profile) {
+	fmt.Printf("🚀 Hello World!, I'm %s from %s", journey.Name, journey.Location)
+	fmt.Printf("I'm a %s with a passtion for %s", journey.CurrentRole, strings.Join(journey.Passion, ", "))
 }
-
-await sayHello()
 ```
 
 ### About Me ![Visitors](https://komarev.com/ghpvc/?username=ajiaja38&style=flat&label=visitors)&nbsp;
