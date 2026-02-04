@@ -1,6 +1,6 @@
 # Hello everybody!
 ## Hi, I'm M. Aji Perdana 👋
-Fullstack Developer at PT.LSKK and PUSTEKHAN ITB, Bandung City, West Java.
+IT Developer In Pelindo, North Jakarta
 
 ```go
 // Welcome to My Tech Space!
