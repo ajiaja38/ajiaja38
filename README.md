@@ -1,6 +1,6 @@
 # Hello everybody!
 ## Hi, I'm M. Aji Perdana 👋
-IT Developer In ILCS Pelindo, North Jakarta
+IT Developer In ILCS Pelindo, North Jakarta.
 
 ```go
 // Welcome to My Tech Space!
